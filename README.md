@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I am Michelle Hornfischer, a second-year Ph.D. student and research associate in computational social science, at the Chair for Data Science and Digitalization at Justus-Liebig-University Giessen. 
+I am Michelle Hornfischer, a third-year Ph.D. student and research associate in computational social science, at the Chair for Data Science and Digitalization at Justus-Liebig-University Giessen. 
 
 My main research interests include:
 - Social Media Analytics
